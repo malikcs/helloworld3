@@ -1,0 +1,40 @@
+Obj/GNU_ARM_DEBUG_TETRA/DateAndTime.axf  :
+section             size    addr
+.interp               19   33076
+.note.ABI-tag         32   33096
+.hash               1124   33128
+.dynsym             2368   34252
+.dynstr             5913   36620
+.gnu.version         296   42534
+.gnu.version_r       192   42832
+.rel.dyn             104   43024
+.rel.plt             984   43128
+.init                 12   44112
+.plt                1508   44124
+.text              13344   45632
+.fini                  8   58976
+.rodata             1064   58984
+.ARM.extab          1528   60048
+.ARM.exidx           440   61576
+.eh_frame              4   62016
+.init_array           12   94788
+.fini_array           12   94800
+.jcr                   4   94812
+.data.rel.ro         312   94816
+.dynamic             304   95128
+.got                 548   95432
+.data                  8   95980
+.bss                 112   95992
+.comment              55       0
+.ARM.attributes       69       0
+.debug_aranges       808       0
+.debug_info       122211       0
+.debug_abbrev      10441       0
+.debug_line        15932       0
+.debug_frame        3276       0
+.debug_str         43946       0
+.debug_loc          5450       0
+.debug_ranges        880       0
+Total             233320
+
+

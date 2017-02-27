@@ -1,0 +1,13 @@
+compiler.compileProtoFiles=false
+compiler.cppCodeGenerationEnabled=true
+compiler.cppOutputDirectory=proto/generated
+compiler.enableProjectSettings=true
+compiler.protocFilePath=C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\Tools\\FW_T3\\win\\Protobuf\\protoc.exe
+compiler.refreshOutputDirectory=false
+compiler.refreshProject=false
+compiler.useProtocInCustomPath=true
+compiler.useProtocInSystemPath=false
+eclipse.preferences.version=1
+paths.directoryPaths=D\:\\Users\\abmkhan\\Ingenico_Workspace\\TimeAndDate\\proto,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\desktopenv,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\device,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\device\\chip,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\device\\contactless,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\device\\led,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\device\\swipe,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\emulation,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\secure\\security,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\service,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\software\\interface,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\software,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\software\\tms,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\software\\tmscall,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\tools,C\:\\Program Files\\TeliumSDK\\SDK11.10.1.01\\SDKT3\\HW_TETRA\\gnu_473\\proto\\ingenico\\transaction
+paths.filesInMultipleDirectories=true
+paths.filesInOneDirectoryOnly=false

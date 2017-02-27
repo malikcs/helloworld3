@@ -1,0 +1,2 @@
+//org.eclipse.debug.core.PREFERRED_DELEGATES/com.ingenico.ingedev.launch.remoteTeliumLaunch=com.ingenico.ingedev.telium.remotedebug.dsf.gdb.launch.teliumDsfLaunchDelegate,debug,;
+eclipse.preferences.version=1

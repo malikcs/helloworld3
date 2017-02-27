@@ -1,0 +1,1556 @@
+Archive member included because of file (symbol)
+
+D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/main.o (ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl())
+D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+                              D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o) (ingenico::dateAndTime::DateAndtimeImplCustom::DateAndtimeImplCustom())
+D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+                              D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o) (ingenico::dateAndTime::DateAndtimeImpl::getDate(std::string&))
+D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+                              D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o) (ingenico::dateAndTime::DateAndtimeImpl::test())
+D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+                              D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o) (ingenico::dateAndTime::DateAndtimeImpl::setDate(std::string const&, std::string&))
+D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+                              D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o) (ingenico::dateAndTime::DateAndtimeImpl::setTime(std::string const&, std::string&))
+d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+                              D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o (__libc_csu_init)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .group         0x00000000       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ .note.GNU-stack
+                0x00000000        0x0 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/main.o
+START GROUP
+LOAD D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a
+LOAD D:/Users/abmkhan/Ingenico_Workspace/TimeAndDate/Bin/GNU_ARM_DEBUG_TETRA/libDateTime.so
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBGRAPHICLIB.LIB
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBBATTERY.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBBLIGHT.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBBUZZER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBCAPTURE.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBPPADTEXT.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBGPS.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBDESKTOP.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libethernet.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBEXPLORER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libgprs.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libspmci.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libwifi.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBGRAPHICS.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBACCELERO.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBHEADER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBINACTIVI.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/liblinklayer.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libtmscall.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libtmsdownload.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libmodem.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBMONITOR.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBOS.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libpackip.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libprinter.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBPROTOBUF.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSCRSAVER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSERVICE.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libSecurity.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSETTING.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libsoftmgt.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSVCDIRPX.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSVCDIRSK.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libTrEngine.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBVIRT_KB.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBOSLAYER.LIB
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libtlvtree.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/SQLITELIB.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LibBridge.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libbluetooth.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/DAL_Lib.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libchip.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libcless.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libgtl.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libled.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libPpad.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libswipe.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libtransac.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/OS/libtelinux.so
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc.so
+START GROUP
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/libc.so.6
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/ld-linux.so.3
+END GROUP
+START GROUP
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/libc.so.6
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/ld-linux.so.3
+END GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib/libgcc_s.so
+START GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib\libgcc_s.so.1
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+END GROUP
+START GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib\libgcc_s.so.1
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+END GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib/libstdc++.so
+END GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168      0x464
+ *(.hash)
+ .hash          0x00008168      0x464 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000085cc      0x940
+ *(.dynsym)
+ .dynsym        0x000085cc      0x940 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.dynstr         0x00008f0c     0x1719
+ *(.dynstr)
+ .dynstr        0x00008f0c     0x1719 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version    0x0000a626      0x128
+ *(.gnu.version)
+ .gnu.version   0x0000a626      0x128 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version_d  0x0000a750        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version_r  0x0000a750       0xc0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000a750       0xc0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.rel.dyn        0x0000a810       0x68
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000a810       0x48 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x0000a858       0x20 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000a878                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+                0x0000a878                PROVIDE (__rel_iplt_end, .)
+                0x0000a878                PROVIDE (__rela_iplt_start, .)
+                0x0000a878                PROVIDE (__rela_iplt_end, .)
+
+.rela.dyn       0x0000a878        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                0x0000a878                PROVIDE (__rel_iplt_start, .)
+                0x0000a878                PROVIDE (__rel_iplt_end, .)
+                0x0000a878                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                0x0000a878                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x0000a878      0x3d8
+ *(.rel.plt)
+ .rel.plt       0x0000a878      0x3d8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x0000ac50        0xc
+ *(.init)
+ .init          0x0000ac50        0x8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000ac50                _init
+ .init          0x0000ac58        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+
+.plt            0x0000ac5c      0x5e4
+ *(.plt)
+ .plt           0x0000ac5c      0x5e4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000ac70                Odm_AppGetCurrentAppliIdentifier
+                0x0000ac7c                ingenico::desktopenv::Settings::setTime(unsigned char, unsigned char, unsigned char)
+                0x0000ac88                operator new(unsigned int)@@GLIBCXX_3.4
+                0x0000ac94                ingenico::service::Interfacable::zfuInterfacable09()
+                0x0000aca0                ingenico::desktopenv::Settings::~Settings()
+                0x0000acac                ingenico::service::Interfacable::zfuInterfacable27()
+                0x0000acb8                ingenico::dateAndTime::SetDateRequest::datestring() const
+                0x0000acc4                ingenico::service::Service::dispatch(unsigned long)
+                0x0000acd0                getpid@@GLIBC_2.4
+                0x0000acdc                ingenico::service::Interfacable::zfuInterfacable06()
+                0x0000ace8                ingenico::service::Interfacable::zfuInterfacable24()
+                0x0000acf4                ingenico::service::Interfacable::zfuInterfacable03()
+                0x0000ad00                ingenico::service::Interfacable::zfuInterfacable21()
+                0x0000ad0c                ingenico::dateAndTime::GetDateResponse::instantiate()
+                0x0000ad18                std::string::substr(unsigned int, unsigned int) const@@GLIBCXX_3.4
+                0x0000ad24                ingenico::service::Interfacable::zfuInterfacable00()
+                0x0000ad30                ingenico::service::Interfacable::unbind(ingenico::service::MessageBindable*)
+                0x0000ad3c                ingenico::service::Interfacable::zfuInterfacable11()
+                0x0000ad48                ingenico::service::Service::addProxy(ingenico::service::Proxyable&)
+                0x0000ad54                ingenico::service::Service::addInterface(ingenico::service::Interfacable&)
+                0x0000ad60                ingenico::service::Directory::Directory()
+                0x0000ad6c                ingenico::service::Interfacable::zfuInterfacable13()
+                0x0000ad78                iniparser_getint
+                0x0000ad84                ingenico::service::Interfacable::zfuInterfacable28()
+                0x0000ad90                Odm_ApplicationGetCurrent
+                0x0000ad9c                ingenico::service::Interfacable::zfuInterfacable17()
+                0x0000ada8                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&)@@GLIBCXX_3.4
+                0x0000adb4                atoi@@GLIBC_2.4
+                0x0000adc0                ingenico::service::Interfacable::bind(ingenico::service::MessageBindable*)
+                0x0000adcc                Odm_AppGetAppliTypeFromAppId
+                0x0000add8                ingenico::service::Permissions::Permissions(std::string const&)
+                0x0000ade4                ingenico::service::Manifest::add_servicedescriptor(char const*)
+                0x0000adf0                Sap_trace_debug
+                0x0000adfc                ingenico::dateAndTime::SetTimeResponse::instantiate()
+                0x0000ae08                ingenico::service::Interfacable::raise(ingenico::service::Link&)
+                0x0000ae14                ingenico::service::Interfacable::Interfacable(ingenico::service::Link::LinkType, ingenico::service::Service*)
+                0x0000ae20                snprintf@@GLIBC_2.4
+                0x0000ae2c                ingenico::service::Interfacable::zfuInterfacable16()
+                0x0000ae38                ingenico::service::Interfacable::zfuInterfacable05()
+                0x0000ae44                ingenico::service::Interfacable::zfuInterfacable23()
+                0x0000ae50                abort@@GLIBC_2.4
+                0x0000ae5c                pause@@GLIBC_2.4
+                0x0000ae68                ingenico::service::Link::decode(google::protobuf::Message&)
+                0x0000ae74                std::string::operator=(std::string const&)@@GLIBCXX_3.4
+                0x0000ae80                ingenico::service::Service::Service(ingenico::service::Manifest&, ingenico::os::Poller*)
+                0x0000ae90                kill@@GLIBC_2.4
+                0x0000ae9c                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string()@@GLIBCXX_3.4
+                0x0000aea8                COREDBG_StackOverFlowSet
+                0x0000aeb4                ingenico::desktopenv::Settings::setDate(unsigned short, unsigned char, unsigned char)
+                0x0000aec0                operator delete(void*)@@GLIBCXX_3.4
+                0x0000aecc                ingenico::service::Manifest::set_description(char const*)
+                0x0000aed8                iniparser_freedict
+                0x0000aee4                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x0000aef0                ingenico::service::Interfacable::zfuInterfacable10()
+                0x0000aefc                ingenico::dateAndTime::SetDateRequest::instantiate()
+                0x0000af08                ingenico::service::Directory::~Directory()
+                0x0000af14                std::allocator<char>::~allocator()@@GLIBCXX_3.4
+                0x0000af20                std::string::append(std::string const&)@@GLIBCXX_3.4
+                0x0000af2c                ingenico::service::Interfacable::zfuInterfacable18()
+                0x0000af38                __cxa_end_cleanup@@CXXABI_1.3
+                0x0000af44                __dynamic_cast@@CXXABI_1.3
+                0x0000af50                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)@@GLIBCXX_3.4
+                0x0000af5c                ingenico::service::Interfacable::bind(unsigned long long, ingenico::os::Error (*)(ingenico::service::Link&), std::string const&)
+                0x0000af68                access@@GLIBC_2.4
+                0x0000af74                ingenico::service::Interfacable::zfuInterfacable15()
+                0x0000af80                ingenico::dateAndTime::GetDateRequest::instantiate()
+                0x0000af8c                ingenico::service::Manifest::instantiate()
+                0x0000af98                ingenico::desktopenv::Settings::Settings()
+                0x0000afa4                ingenico::service::Interfacable::zfuInterfacable12()
+                0x0000afb0                ingenico::service::Link::send(google::protobuf::Message&)
+                0x0000afbc                __cxa_call_unexpected@@CXXABI_1.3
+                0x0000afc8                Stapp_LegacyInstall
+                0x0000afd4                pthread_cancel@@GLIBC_2.4
+                0x0000afe0                ingenico::service::Permissions::~Permissions()
+                0x0000afec                ingenico::service::Interfacable::zfuInterfacable02()
+                0x0000aff8                ingenico::service::Interfacable::zfuInterfacable20()
+                0x0000b004                std::string::c_str() const@@GLIBCXX_3.4
+                0x0000b010                ingenico::service::Interfacable::unbind(unsigned long long, ingenico::os::Error (*)(ingenico::service::Link&))
+                0x0000b01c                ingenico::service::Service::detachProxy(ingenico::service::Proxyable&)
+                0x0000b028                ingenico::service::Interfacable::zfuInterfacable04()
+                0x0000b034                ingenico::service::Interfacable::zfuInterfacable22()
+                0x0000b040                ingenico::service::Interfacable::zfuInterfacable19()
+                0x0000b04c                std::string::operator=(char const*)@@GLIBCXX_3.4
+                0x0000b058                ingenico::service::Interfacable::zfuInterfacable08()
+                0x0000b064                ingenico::dateAndTime::SetDateResponse::instantiate()
+                0x0000b070                ingenico::service::Interfacable::zfuInterfacable26()
+                0x0000b07c                Sys_GetMode
+                0x0000b08c                Stapp_LegacyInstall_end
+                0x0000b098                ingenico::service::Service::Service(ingenico::os::Poller*)
+                0x0000b0a4                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@@GLIBCXX_3.4
+                0x0000b0b0                ingenico::service::Directory::add(ingenico::service::Manifest const&)
+                0x0000b0bc                ingenico::service::Manifest::set_serviceclass(char const*)
+                0x0000b0c8                ingenico::dateAndTime::SetTimeRequest::timestring() const
+                0x0000b0d4                std::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::basic_ostringstream(std::_Ios_Openmode)@@GLIBCXX_3.4
+                0x0000b0e0                ingenico::dateAndTime::TestResponse::instantiate()
+                0x0000b0ec                __gxx_personality_v0@@CXXABI_1.3
+                0x0000b0fc                Stapp_LegacyUninstall
+                0x0000b108                ingenico::service::Service::~Service()
+                0x0000b114                ingenico::service::Service::attachProxy(ingenico::service::Proxyable&, std::string const&, unsigned int)
+                0x0000b120                ingenico::service::Interfacable::zfuInterfacable07()
+                0x0000b12c                std::ostream::operator<<(int)@@GLIBCXX_3.4
+                0x0000b138                ingenico::service::Interfacable::zfuInterfacable25()
+                0x0000b144                std::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::str() const@@GLIBCXX_3.4
+                0x0000b150                ingenico::desktopenv::Settings::getDateFormat(std::string&)
+                0x0000b15c                ingenico::service::Interfacable::zfuInterfacable14()
+                0x0000b168                ingenico::dateAndTime::TestRequest::instantiate()
+                0x0000b174                ingenico::dateAndTime::GetDateResponse::set_resultofgetdate(std::string const&)
+                0x0000b180                ingenico::desktopenv::Settings::setTimeFormat(bool)
+                0x0000b18c                ingenico::desktopenv::Settings::getTimeFormat(bool&)
+                0x0000b198                std::allocator<char>::allocator()@@GLIBCXX_3.4
+                0x0000b1a4                ingenico::service::Interfacable::zfuInterfacable29()
+                0x0000b1b0                ingenico::dateAndTime::SetTimeRequest::instantiate()
+                0x0000b1bc                getenv@@GLIBC_2.4
+                0x0000b1c8                __libc_start_main@@GLIBC_2.4
+                0x0000b1d4                ingenico::service::Interfacable::~Interfacable()
+                0x0000b1e0                ingenico::dateAndTime::SetDateResponse::set_datechanged(std::string const&)
+                0x0000b1ec                iniparser_load
+                0x0000b204                ingenico::dateAndTime::SetTimeResponse::set_timechanged(std::string const&)
+                0x0000b210                __cxa_pure_virtual@@CXXABI_1.3
+                0x0000b21c                ingenico::service::Directory::connect(std::string const&, unsigned int)
+                0x0000b228                std::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::~basic_ostringstream()@@GLIBCXX_3.4
+                0x0000b234                ingenico::service::Interfacable::zfuInterfacable01()
+
+.iplt
+ *(.iplt)
+
+.text           0x0000b240     0x3420
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x0000b240      0x120 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                0x0000b240                telinux_after_main_last
+                0x0000b29c                telinux_gmon_dump_prepare
+ *(.text.startup .text.startup.*)
+ .text.startup  0x0000b360       0xd4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                0x0000b380                telinux_before_main_first
+                0x0000b400                telinux_before_main_last
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000b434       0x24 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .text          0x0000b458       0x3c D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x0000b458                _start
+ .text          0x0000b494       0xd8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .text          0x0000b56c       0x60 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                0x0000b56c                entry
+                0x0000b594                __stack_chk_fail
+ .text          0x0000b5cc      0x22c Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b5cc                main
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEED2Ev
+                0x0000b7f8       0x50 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b7f8                std::auto_ptr<ingenico::service::Manifest>::~auto_ptr()
+                0x0000b7f8                std::auto_ptr<ingenico::service::Manifest>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000b848       0x48 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b848                _ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEC2ESt12auto_ptr_refIS2_E
+                0x0000b890       0x3c Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b890                std::auto_ptr<ingenico::service::Manifest>::auto_ptr(std::auto_ptr_ref<ingenico::service::Manifest>)
+                0x0000b890                std::auto_ptr<ingenico::service::Manifest>::auto_ptr(std::auto_ptr_ref<ingenico::service::Manifest>)
+ .text._ZNKSt8auto_ptrIN8ingenico7service8ManifestEEptEv
+                0x0000b8cc       0x38 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b8cc                std::auto_ptr<ingenico::service::Manifest>::operator->() const
+ .text._ZNKSt8auto_ptrIN8ingenico7service8ManifestEEdeEv
+                0x0000b904       0x38 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b904                std::auto_ptr<ingenico::service::Manifest>::operator*() const
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEE7releaseEv
+                0x0000b93c       0x40 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b93c                std::auto_ptr<ingenico::service::Manifest>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico7service8ManifestEEC2EPS2_
+                0x0000b97c       0x3c Obj/GNU_ARM_DEBUG_TETRA/main.o
+                0x0000b97c                std::auto_ptr_ref<ingenico::service::Manifest>::auto_ptr_ref(ingenico::service::Manifest*)
+                0x0000b97c                std::auto_ptr_ref<ingenico::service::Manifest>::auto_ptr_ref(ingenico::service::Manifest*)
+ .text          0x0000b9b8      0xe2c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000b9b8                ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl()
+                0x0000b9b8                ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl()
+                0x0000bc20                ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl(ingenico::service::Interfacable*)
+                0x0000bc20                ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl(ingenico::service::Interfacable*)
+                0x0000be98                ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl(ingenico::dateAndTime::DateAndtimeImpl const&)
+                0x0000be98                ingenico::dateAndTime::DateAndtimeImpl::DateAndtimeImpl(ingenico::dateAndTime::DateAndtimeImpl const&)
+                0x0000bf14                ingenico::dateAndTime::DateAndtimeImpl::operator=(ingenico::dateAndTime::DateAndtimeImpl const&)
+                0x0000bf50                ingenico::dateAndTime::DateAndtimeImpl::~DateAndtimeImpl()
+                0x0000bf50                ingenico::dateAndTime::DateAndtimeImpl::~DateAndtimeImpl()
+                0x0000c0e8                ingenico::dateAndTime::DateAndtimeImpl::~DateAndtimeImpl()
+                0x0000c12c                ingenico::dateAndTime::DateAndtimeImpl::getCustomImpl() const
+                0x0000c168                ingenico::dateAndTime::DateAndtimeImpl::internalSetDate(ingenico::service::Link&)
+                0x0000c328                ingenico::dateAndTime::DateAndtimeImpl::internalGetDate(ingenico::service::Link&)
+                0x0000c4a8                ingenico::dateAndTime::DateAndtimeImpl::internalTest(ingenico::service::Link&)
+                0x0000c5e8                ingenico::dateAndTime::DateAndtimeImpl::internalSetTime(ingenico::service::Link&)
+                0x0000c7a8                ingenico::dateAndTime::DateAndtimeImpl::getLink()
+ .text._ZN8ingenico7service15MessageBindableD2Ev
+                0x0000c7e4       0x58 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000c7e4                ingenico::service::MessageBindable::~MessageBindable()
+                0x0000c7e4                ingenico::service::MessageBindable::~MessageBindable()
+ .text._ZN8ingenico7service15MessageBindableD0Ev
+                0x0000c83c       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000c83c                ingenico::service::MessageBindable::~MessageBindable()
+ .text._ZN8ingenico7service15MessageBindableC2Ev
+                0x0000c880       0x48 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000c880                ingenico::service::MessageBindable::MessageBindable()
+                0x0000c880                ingenico::service::MessageBindable::MessageBindable()
+ .text._ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_S8_
+                0x0000c8c8       0x58 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000c8c8                std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+ .text._ZN8ingenico7service12Interfacable4bindINS_11dateAndTime15DateAndtimeImplEEEvyPT_MS5_FNS_2os5ErrorERNS0_4LinkEERKSs
+                0x0000c920       0xb4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000c920                void ingenico::service::Interfacable::bind<ingenico::dateAndTime::DateAndtimeImpl>(unsigned long long, ingenico::dateAndTime::DateAndtimeImpl*, ingenico::os::Error (ingenico::dateAndTime::DateAndtimeImpl::*)(ingenico::service::Link&), std::string const&)
+ .text._ZN8ingenico7service12Interfacable6unbindINS_11dateAndTime15DateAndtimeImplEEEvyPT_MS5_FNS_2os5ErrorERNS0_4LinkEE
+                0x0000c9d4      0x104 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000c9d4                void ingenico::service::Interfacable::unbind<ingenico::dateAndTime::DateAndtimeImpl>(unsigned long long, ingenico::dateAndTime::DateAndtimeImpl*, ingenico::os::Error (ingenico::dateAndTime::DateAndtimeImpl::*)(ingenico::service::Link&))
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEED2Ev
+                0x0000cad8       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cad8                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::~auto_ptr()
+                0x0000cad8                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000cb2c       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cb2c                _ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000cb90       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cb90                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetDateRequest>)
+                0x0000cb90                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetDateRequest>)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEED2Ev
+                0x0000cbd0       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cbd0                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::~auto_ptr()
+                0x0000cbd0                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000cc24       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cc24                _ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000cc88       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cc88                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetDateResponse>)
+                0x0000cc88                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetDateResponse>)
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEdeEv
+                0x0000ccc8       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000ccc8                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::operator*() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEptEv
+                0x0000cd04       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cd04                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::operator->() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEptEv
+                0x0000cd40       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cd40                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::operator->() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEdeEv
+                0x0000cd7c       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cd7c                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::operator*() const
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEED2Ev
+                0x0000cdb8       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cdb8                std::auto_ptr<ingenico::dateAndTime::GetDateRequest>::~auto_ptr()
+                0x0000cdb8                std::auto_ptr<ingenico::dateAndTime::GetDateRequest>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000ce0c       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000ce0c                _ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000ce70       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000ce70                std::auto_ptr<ingenico::dateAndTime::GetDateRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::GetDateRequest>)
+                0x0000ce70                std::auto_ptr<ingenico::dateAndTime::GetDateRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::GetDateRequest>)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEED2Ev
+                0x0000ceb0       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000ceb0                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::~auto_ptr()
+                0x0000ceb0                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000cf04       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cf04                _ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000cf68       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cf68                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::GetDateResponse>)
+                0x0000cf68                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::GetDateResponse>)
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEdeEv
+                0x0000cfa8       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cfa8                std::auto_ptr<ingenico::dateAndTime::GetDateRequest>::operator*() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEptEv
+                0x0000cfe4       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000cfe4                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::operator->() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEdeEv
+                0x0000d020       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d020                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::operator*() const
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEED2Ev
+                0x0000d05c       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d05c                std::auto_ptr<ingenico::dateAndTime::TestRequest>::~auto_ptr()
+                0x0000d05c                std::auto_ptr<ingenico::dateAndTime::TestRequest>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000d0b0       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d0b0                _ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000d114       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d114                std::auto_ptr<ingenico::dateAndTime::TestRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::TestRequest>)
+                0x0000d114                std::auto_ptr<ingenico::dateAndTime::TestRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::TestRequest>)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEED2Ev
+                0x0000d154       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d154                std::auto_ptr<ingenico::dateAndTime::TestResponse>::~auto_ptr()
+                0x0000d154                std::auto_ptr<ingenico::dateAndTime::TestResponse>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000d1a8       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d1a8                _ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000d20c       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d20c                std::auto_ptr<ingenico::dateAndTime::TestResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::TestResponse>)
+                0x0000d20c                std::auto_ptr<ingenico::dateAndTime::TestResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::TestResponse>)
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEdeEv
+                0x0000d24c       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d24c                std::auto_ptr<ingenico::dateAndTime::TestRequest>::operator*() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEdeEv
+                0x0000d288       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d288                std::auto_ptr<ingenico::dateAndTime::TestResponse>::operator*() const
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEED2Ev
+                0x0000d2c4       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d2c4                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::~auto_ptr()
+                0x0000d2c4                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000d318       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d318                _ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000d37c       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d37c                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetTimeRequest>)
+                0x0000d37c                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetTimeRequest>)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEED2Ev
+                0x0000d3bc       0x54 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d3bc                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::~auto_ptr()
+                0x0000d3bc                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000d410       0x64 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d410                _ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000d474       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d474                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetTimeResponse>)
+                0x0000d474                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::auto_ptr(std::auto_ptr_ref<ingenico::dateAndTime::SetTimeResponse>)
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEdeEv
+                0x0000d4b4       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d4b4                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::operator*() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEptEv
+                0x0000d4f0       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d4f0                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::operator->() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEptEv
+                0x0000d52c       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d52c                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::operator->() const
+ .text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEdeEv
+                0x0000d568       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d568                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::operator*() const
+ .text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEC2EyPS3_MS3_FNS_2os5ErrorERNS0_4LinkEERKSs
+                0x0000d5a4       0xa4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d5a4                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::MessageMethodBind(unsigned long long, ingenico::dateAndTime::DateAndtimeImpl*, ingenico::os::Error (ingenico::dateAndTime::DateAndtimeImpl::*)(ingenico::service::Link&), std::string const&)
+                0x0000d5a4                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::MessageMethodBind(unsigned long long, ingenico::dateAndTime::DateAndtimeImpl*, ingenico::os::Error (ingenico::dateAndTime::DateAndtimeImpl::*)(ingenico::service::Link&), std::string const&)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEE7releaseEv
+                0x0000d648       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d648                std::auto_ptr<ingenico::dateAndTime::SetDateRequest>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14SetDateRequestEEC2EPS2_
+                0x0000d68c       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d68c                std::auto_ptr_ref<ingenico::dateAndTime::SetDateRequest>::auto_ptr_ref(ingenico::dateAndTime::SetDateRequest*)
+                0x0000d68c                std::auto_ptr_ref<ingenico::dateAndTime::SetDateRequest>::auto_ptr_ref(ingenico::dateAndTime::SetDateRequest*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEE7releaseEv
+                0x0000d6cc       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d6cc                std::auto_ptr<ingenico::dateAndTime::SetDateResponse>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15SetDateResponseEEC2EPS2_
+                0x0000d710       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d710                std::auto_ptr_ref<ingenico::dateAndTime::SetDateResponse>::auto_ptr_ref(ingenico::dateAndTime::SetDateResponse*)
+                0x0000d710                std::auto_ptr_ref<ingenico::dateAndTime::SetDateResponse>::auto_ptr_ref(ingenico::dateAndTime::SetDateResponse*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEE7releaseEv
+                0x0000d750       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d750                std::auto_ptr<ingenico::dateAndTime::GetDateRequest>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14GetDateRequestEEC2EPS2_
+                0x0000d794       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d794                std::auto_ptr_ref<ingenico::dateAndTime::GetDateRequest>::auto_ptr_ref(ingenico::dateAndTime::GetDateRequest*)
+                0x0000d794                std::auto_ptr_ref<ingenico::dateAndTime::GetDateRequest>::auto_ptr_ref(ingenico::dateAndTime::GetDateRequest*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEE7releaseEv
+                0x0000d7d4       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d7d4                std::auto_ptr<ingenico::dateAndTime::GetDateResponse>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15GetDateResponseEEC2EPS2_
+                0x0000d818       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d818                std::auto_ptr_ref<ingenico::dateAndTime::GetDateResponse>::auto_ptr_ref(ingenico::dateAndTime::GetDateResponse*)
+                0x0000d818                std::auto_ptr_ref<ingenico::dateAndTime::GetDateResponse>::auto_ptr_ref(ingenico::dateAndTime::GetDateResponse*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEE7releaseEv
+                0x0000d858       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d858                std::auto_ptr<ingenico::dateAndTime::TestRequest>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime11TestRequestEEC2EPS2_
+                0x0000d89c       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d89c                std::auto_ptr_ref<ingenico::dateAndTime::TestRequest>::auto_ptr_ref(ingenico::dateAndTime::TestRequest*)
+                0x0000d89c                std::auto_ptr_ref<ingenico::dateAndTime::TestRequest>::auto_ptr_ref(ingenico::dateAndTime::TestRequest*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEE7releaseEv
+                0x0000d8dc       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d8dc                std::auto_ptr<ingenico::dateAndTime::TestResponse>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime12TestResponseEEC2EPS2_
+                0x0000d920       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d920                std::auto_ptr_ref<ingenico::dateAndTime::TestResponse>::auto_ptr_ref(ingenico::dateAndTime::TestResponse*)
+                0x0000d920                std::auto_ptr_ref<ingenico::dateAndTime::TestResponse>::auto_ptr_ref(ingenico::dateAndTime::TestResponse*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEE7releaseEv
+                0x0000d960       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d960                std::auto_ptr<ingenico::dateAndTime::SetTimeRequest>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14SetTimeRequestEEC2EPS2_
+                0x0000d9a4       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d9a4                std::auto_ptr_ref<ingenico::dateAndTime::SetTimeRequest>::auto_ptr_ref(ingenico::dateAndTime::SetTimeRequest*)
+                0x0000d9a4                std::auto_ptr_ref<ingenico::dateAndTime::SetTimeRequest>::auto_ptr_ref(ingenico::dateAndTime::SetTimeRequest*)
+ .text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEE7releaseEv
+                0x0000d9e4       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000d9e4                std::auto_ptr<ingenico::dateAndTime::SetTimeResponse>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15SetTimeResponseEEC2EPS2_
+                0x0000da28       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000da28                std::auto_ptr_ref<ingenico::dateAndTime::SetTimeResponse>::auto_ptr_ref(ingenico::dateAndTime::SetTimeResponse*)
+                0x0000da28                std::auto_ptr_ref<ingenico::dateAndTime::SetTimeResponse>::auto_ptr_ref(ingenico::dateAndTime::SetTimeResponse*)
+ .text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE5raiseERNS0_4LinkE
+                0x0000da68       0x74 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000da68                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::raise(ingenico::service::Link&)
+ .text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEeqERKNS0_15MessageBindableE
+                0x0000dadc       0xc8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000dadc                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::operator==(ingenico::service::MessageBindable const&)
+ .text._ZNK8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE7getTypeEv
+                0x0000dba4       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000dba4                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::getType() const
+ .text._ZNK8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE14getPermissionsEv
+                0x0000dbe0       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000dbe0                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::getPermissions() const
+ .text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEED2Ev
+                0x0000dc1c       0x78 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000dc1c                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::~MessageMethodBind()
+                0x0000dc1c                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::~MessageMethodBind()
+ .text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEED0Ev
+                0x0000dc94       0x44 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000dc94                ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>::~MessageMethodBind()
+ .text          0x0000dcd8      0x1d0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+                0x0000dcd8                ingenico::dateAndTime::DateAndtimeImplCustom::DateAndtimeImplCustom()
+                0x0000dcd8                ingenico::dateAndTime::DateAndtimeImplCustom::DateAndtimeImplCustom()
+                0x0000dd20                ingenico::dateAndTime::DateAndtimeImplCustom::~DateAndtimeImplCustom()
+                0x0000dd20                ingenico::dateAndTime::DateAndtimeImplCustom::~DateAndtimeImplCustom()
+                0x0000dd78                ingenico::dateAndTime::DateAndtimeImplCustom::~DateAndtimeImplCustom()
+                0x0000ddbc                ingenico::dateAndTime::DateAndtimeImplCustom::DateAndtimeImplCustom(ingenico::dateAndTime::DateAndtimeImplCustom const&)
+                0x0000ddbc                ingenico::dateAndTime::DateAndtimeImplCustom::DateAndtimeImplCustom(ingenico::dateAndTime::DateAndtimeImplCustom const&)
+                0x0000de04                ingenico::dateAndTime::DateAndtimeImplCustom::operator=(ingenico::dateAndTime::DateAndtimeImplCustom const&)
+                0x0000de40                ingenico::dateAndTime::DateAndtimeImplCustom::initialize()
+                0x0000de74                ingenico::dateAndTime::DateAndtimeImplCustom::finalize()
+ .text          0x0000dea8      0x120 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+                0x0000dea8                ingenico::dateAndTime::DateAndtimeImpl::getDate(std::string&)
+ .text          0x0000dfc8       0x3c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+                0x0000dfc8                ingenico::dateAndTime::DateAndtimeImpl::test()
+ .text          0x0000e004      0x300 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+                0x0000e004                ingenico::dateAndTime::DateAndtimeImpl::setDate(std::string const&, std::string&)
+ .text          0x0000e304      0x2f4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+                0x0000e304                ingenico::dateAndTime::DateAndtimeImpl::setTime(std::string const&, std::string&)
+ .text          0x0000e5f8       0x68 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+                0x0000e5f8                __libc_csu_init
+                0x0000e65c                __libc_csu_fini
+ .text          0x0000e660        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .text          0x0000e660        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .text          0x0000e660        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x0000e660        0x8
+ *(.fini)
+ .fini          0x0000e660        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000e660                _fini
+ .fini          0x0000e664        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+                0x0000e668                PROVIDE (__etext, .)
+                0x0000e668                PROVIDE (_etext, .)
+                0x0000e668                PROVIDE (etext, .)
+
+.rodata         0x0000e668      0x428
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000e668        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x0000e668                _IO_stdin_used
+ .rodata        0x0000e66c       0x1c C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .rodata.str1.4
+                0x0000e688       0x46 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                                 0x48 (size before relaxing)
+ *fill*         0x0000e6ce        0x2 00
+ .rodata        0x0000e6d0       0xc0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .rodata        0x0000e790       0x68 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000e794                typeinfo name for ingenico::dateAndTime::DateAndtimeImpl
+ .rodata._ZTSN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEE
+                0x0000e7f8       0x4c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000e7f8                typeinfo name for ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>
+ .rodata._ZTSN8ingenico7service15MessageBindableE
+                0x0000e844       0x28 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x0000e844                typeinfo name for ingenico::service::MessageBindable
+ .rodata        0x0000e86c       0x30 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+                0x0000e86c                typeinfo name for ingenico::dateAndTime::DateAndtimeImplCustom
+ *fill*         0x0000e89c        0x4 00
+ .rodata        0x0000e8a0       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .rodata        0x0000e8e0       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .rodata        0x0000e918       0x60 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .rodata        0x0000e978       0x78 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ .rodata        0x0000e9f0       0x18 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ .rodata.str1.4
+                0x0000ea08       0x88 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0000ea90      0x5f8
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000ea90        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.extab     0x0000ea90       0x60 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEED2Ev
+                0x0000eaf0        0xc Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000eafc        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEC2ESt12auto_ptr_refIS2_E
+                0x0000eafc        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico7service8ManifestEEptEv
+                0x0000eafc        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico7service8ManifestEEdeEv
+                0x0000eafc        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEE7releaseEv
+                0x0000eafc        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico7service8ManifestEEC2EPS2_
+                0x0000eafc        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.extab.text._ZN8ingenico7service15MessageBindableD2Ev
+                0x0000eafc        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service15MessageBindableD0Ev
+                0x0000eafc        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service15MessageBindableC2Ev
+                0x0000eafc        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab     0x0000eafc      0x244 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_S8_
+                0x0000ed40       0x1c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service12Interfacable4bindINS_11dateAndTime15DateAndtimeImplEEEvyPT_MS5_FNS_2os5ErrorERNS0_4LinkEERKSs
+                0x0000ed5c       0x1c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service12Interfacable6unbindINS_11dateAndTime15DateAndtimeImplEEEvyPT_MS5_FNS_2os5ErrorERNS0_4LinkEE
+                0x0000ed78       0x30 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEED2Ev
+                0x0000eda8        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000edb4       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000edd4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEED2Ev
+                0x0000edd4        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000ede0       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000ee00        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEdeEv
+                0x0000ee00        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEptEv
+                0x0000ee00        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEptEv
+                0x0000ee00        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEdeEv
+                0x0000ee00        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEED2Ev
+                0x0000ee00        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000ee0c       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000ee2c        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEED2Ev
+                0x0000ee2c        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000ee38       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000ee58        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEdeEv
+                0x0000ee58        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEptEv
+                0x0000ee58        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEdeEv
+                0x0000ee58        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEED2Ev
+                0x0000ee58        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000ee64       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000ee84        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEED2Ev
+                0x0000ee84        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000ee90       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000eeb0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEdeEv
+                0x0000eeb0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEdeEv
+                0x0000eeb0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEED2Ev
+                0x0000eeb0        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000eebc       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000eedc        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEED2Ev
+                0x0000eedc        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000eee8       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000ef08        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEdeEv
+                0x0000ef08        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEptEv
+                0x0000ef08        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEptEv
+                0x0000ef08        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEdeEv
+                0x0000ef08        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEC2EyPS3_MS3_FNS_2os5ErrorERNS0_4LinkEERKSs
+                0x0000ef08       0x1c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14SetDateRequestEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15SetDateResponseEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14GetDateRequestEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15GetDateResponseEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime11TestRequestEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime12TestResponseEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14SetTimeRequestEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEE7releaseEv
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15SetTimeResponseEEC2EPS2_
+                0x0000ef24        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE5raiseERNS0_4LinkE
+                0x0000ef24        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEeqERKNS0_15MessageBindableE
+                0x0000ef30        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNK8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE7getTypeEv
+                0x0000ef30        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZNK8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE14getPermissionsEv
+                0x0000ef30        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEED2Ev
+                0x0000ef30       0x18 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEED0Ev
+                0x0000ef48        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.extab     0x0000ef54        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .ARM.extab     0x0000ef54       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .ARM.extab     0x0000ef94        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .ARM.extab     0x0000ef94       0x80 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .ARM.extab     0x0000f014       0x74 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+                0x0000f088                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0000f088      0x1b8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000f088        0x8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.exidx     0x0000f090        0x8 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEED2Ev
+                0x0000f098        0x8 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f0a0        0x8 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEC2ESt12auto_ptr_refIS2_E
+                0x0000f0a8        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico7service8ManifestEEptEv
+                0x0000f0a8        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico7service8ManifestEEdeEv
+                0x0000f0a8        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEE7releaseEv
+                0x0000f0a8        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico7service8ManifestEEC2EPS2_
+                0x0000f0a8        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN8ingenico7service15MessageBindableD2Ev
+                0x0000f108        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN8ingenico7service15MessageBindableD0Ev
+                0x0000f108        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN8ingenico7service15MessageBindableC2Ev
+                0x0000f108        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0000f0a8       0x60 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_S8_
+                0x0000f108        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZN8ingenico7service12Interfacable4bindINS_11dateAndTime15DateAndtimeImplEEEvyPT_MS5_FNS_2os5ErrorERNS0_4LinkEERKSs
+                0x0000f110        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZN8ingenico7service12Interfacable6unbindINS_11dateAndTime15DateAndtimeImplEEEvyPT_MS5_FNS_2os5ErrorERNS0_4LinkEE
+                0x0000f118        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEED2Ev
+                0x0000f120        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f128        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000f130        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEED2Ev
+                0x0000f138        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f140        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000f148        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEdeEv
+                0x0000f150        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEEptEv
+                0x0000f150        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEptEv
+                0x0000f150        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEEdeEv
+                0x0000f150        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEED2Ev
+                0x0000f150        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f158        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000f160        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEED2Ev
+                0x0000f168        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f170        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000f178        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEEdeEv
+                0x0000f180        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEptEv
+                0x0000f180        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEEdeEv
+                0x0000f180        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEED2Ev
+                0x0000f180        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f188        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000f190        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEED2Ev
+                0x0000f198        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f1a0        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000f1a8        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEEdeEv
+                0x0000f1b0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEEdeEv
+                0x0000f1b0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEED2Ev
+                0x0000f1b0        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f1b8        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEC2ESt12auto_ptr_refIS2_E
+                0x0000f1c0        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEED2Ev
+                0x0000f1c8        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000f1d0        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEC2ESt12auto_ptr_refIS2_E
+                0x0000f1d8        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEdeEv
+                0x0000f1e0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEEptEv
+                0x0000f1e0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEptEv
+                0x0000f1e0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEEdeEv
+                0x0000f1e0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEC2EyPS3_MS3_FNS_2os5ErrorERNS0_4LinkEERKSs
+                0x0000f1e0        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetDateRequestEE7releaseEv
+                0x0000f1e8        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14SetDateRequestEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetDateResponseEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15SetDateResponseEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14GetDateRequestEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14GetDateRequestEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15GetDateResponseEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15GetDateResponseEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime11TestRequestEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime11TestRequestEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime12TestResponseEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime12TestResponseEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime14SetTimeRequestEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime14SetTimeRequestEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico11dateAndTime15SetTimeResponseEE7releaseEv
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico11dateAndTime15SetTimeResponseEEC2EPS2_
+                0x0000f1f0        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE5raiseERNS0_4LinkE
+                0x0000f1f0        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEeqERKNS0_15MessageBindableE
+                0x0000f1f8        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZNK8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE7getTypeEv
+                0x0000f200        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNK8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEE14getPermissionsEv
+                0x0000f200        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEED2Ev
+                0x0000f200        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx.text._ZN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEED0Ev
+                0x0000f208        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.exidx     0x0000f210        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+                                 0x38 (size before relaxing)
+ .ARM.exidx     0x0000f218        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .ARM.exidx     0x0000f220        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .ARM.exidx     0x0000f228        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .ARM.exidx     0x0000f230       0x10 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+                                  0x8 (size before relaxing)
+                0x0000f240                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000f240        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000f240        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0000f244                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00017244                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00017244        0x0
+                0x00017244                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00017244                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00017244        0xc
+                0x00017244                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00101
+                0x00017244        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ *(.init_array)
+ .init_array    0x00017248        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .init_array    0x0001724c        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                0x00017250                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00017250        0xc
+                0x00017250                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ .fini_array.00101
+                0x00017250        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ .fini_array.00201
+                0x00017254        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(.fini_array)
+ .fini_array    0x00017258        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x0001725c                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0001725c        0x4
+ *(.jcr)
+ .jcr           0x0001725c        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .jcr           0x0001725c        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.data.rel.ro    0x00017260      0x138
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x00017260        0x4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .data.rel.ro.local
+                0x00017264        0x4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .data.rel.ro.local
+                0x00017268        0x4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .data.rel.ro.local
+                0x0001726c        0x4 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro._ZTVN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEE
+                0x00017270       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x00017270                vtable for ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>
+ .data.rel.ro   0x00017290       0xb8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x00017290                vtable for ingenico::dateAndTime::DateAndtimeImpl
+                0x0001733c                typeinfo for ingenico::dateAndTime::DateAndtimeImpl
+ .data.rel.ro._ZTVN8ingenico7service15MessageBindableE
+                0x00017348       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x00017348                vtable for ingenico::service::MessageBindable
+ .data.rel.ro._ZTIN8ingenico7service17MessageMethodBindINS_11dateAndTime15DateAndtimeImplEEE
+                0x00017368        0xc D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x00017368                typeinfo for ingenico::service::MessageMethodBind<ingenico::dateAndTime::DateAndtimeImpl>
+ .data.rel.ro._ZTIN8ingenico7service15MessageBindableE
+                0x00017374        0x8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                0x00017374                typeinfo for ingenico::service::MessageBindable
+ *fill*         0x0001737c        0x4 00
+ .data.rel.ro   0x00017380       0x18 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+                0x00017380                vtable for ingenico::dateAndTime::DateAndtimeImplCustom
+                0x00017390                typeinfo for ingenico::dateAndTime::DateAndtimeImplCustom
+
+.dynamic        0x00017398      0x130
+ *(.dynamic)
+ .dynamic       0x00017398      0x130 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00017398                _DYNAMIC
+                0x000174c8                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x000174c8      0x224
+ *(.got.plt)
+ .got.plt       0x000174c8      0x1f8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x000174c8                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x000176c0       0x2c D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ *(.igot)
+
+.data           0x000176ec        0x8
+                0x000176ec                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000176ec        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .data          0x000176ec        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x000176ec                __data_start
+                0x000176ec                data_start
+ .data          0x000176f0        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x000176f0                __dso_handle
+ .data          0x000176f4        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .data          0x000176f4        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .data          0x000176f4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .data          0x000176f4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .data          0x000176f4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .data          0x000176f4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .data          0x000176f4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .data          0x000176f4        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ .data          0x000176f4        0x0 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x000176f4        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .data          0x000176f4        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .data          0x000176f4        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.tm_clone_table
+                0x000176f4        0x0
+ .tm_clone_table
+                0x000176f4        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .tm_clone_table
+                0x000176f4        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.data1
+ *(.data1)
+                0x000176f4                _edata = .
+                0x000176f4                PROVIDE (edata, .)
+                0x000176f4                __bss_start = .
+                0x000176f4                __bss_start__ = .
+
+.bss            0x000176f8       0x70
+ *(.dynbss)
+ *fill*         0x000176f8        0x0 00
+ .dynbss        0x000176f8       0x6c D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x000176f8                __stack_chk_guard@@GLIBC_2.4
+                0x00017700                vtable for __cxxabiv1::__class_type_info@@CXXABI_1.3
+                0x00017730                typeinfo for ingenico::service::Interfacable
+                0x00017738                vtable for __cxxabiv1::__si_class_type_info@@CXXABI_1.3
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00017764        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .bss           0x00017764        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .bss           0x00017764        0x1 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .bss           0x00017765        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .bss           0x00017765        0x0 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .bss           0x00017765        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .bss           0x00017765        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .bss           0x00017765        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .bss           0x00017765        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .bss           0x00017765        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .bss           0x00017765        0x0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ .bss           0x00017765        0x0 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x00017765        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .bss           0x00017765        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .bss           0x00017765        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(COMMON)
+                0x00017768                . = ALIGN ((. != 0x0)?0x4:0x1)
+ *fill*         0x00017765        0x3 00
+                0x00017768                _bss_end__ = .
+                0x00017768                __bss_end__ = .
+                0x00017768                . = ALIGN (0x4)
+                0x00017768                . = ALIGN (0x4)
+                0x00017768                __end__ = .
+                0x00017768                _end = .
+                0x00017768                PROVIDE (end, .)
+                0x00017768                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x37
+ *(.comment)
+ .comment       0x00000000       0x37 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                                 0x38 (size before relaxing)
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .comment       0x00000000       0x38 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .comment       0x00000000       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .comment       0x00000000       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .comment       0x00000000       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .comment       0x00000000       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .comment       0x00000000       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .comment       0x00000000       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ .comment       0x00000000       0x38 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .comment       0x00000000       0x38 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.ARM.attributes
+                0x00000000       0x45
+ .ARM.attributes
+                0x00000000       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .ARM.attributes
+                0x00000043       0x3d D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.attributes
+                0x00000080       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .ARM.attributes
+                0x000000c3       0x39 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .ARM.attributes
+                0x000000fc       0x39 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .ARM.attributes
+                0x00000135       0x39 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .ARM.attributes
+                0x0000016e       0x39 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .ARM.attributes
+                0x000001a7       0x39 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .ARM.attributes
+                0x000001e0       0x39 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .ARM.attributes
+                0x00000219       0x39 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .ARM.attributes
+                0x00000252       0x39 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+ .ARM.attributes
+                0x0000028b       0x43 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x000002ce       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .ARM.attributes
+                0x00000311       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .ARM.attributes
+                0x00000354       0x39 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x328
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x58 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_aranges
+                0x00000058      0x230 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_aranges
+                0x00000288       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .debug_aranges
+                0x000002a8       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_aranges
+                0x000002c8       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .debug_aranges
+                0x000002e8       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_aranges
+                0x00000308       0x20 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x1dd63
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x4359 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_info    0x00004359     0x8d6c D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_info    0x0000d0c5      0x2ef D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .debug_info    0x0000d3b4     0x3f83 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_info    0x00011337     0x3f16 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .debug_info    0x0001524d     0x458b D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_info    0x000197d8     0x458b D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.debug_abbrev   0x00000000     0x28c9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x690 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_abbrev  0x00000690      0x8af D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_abbrev  0x00000f3f      0x1a1 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .debug_abbrev  0x000010e0      0x5f7 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_abbrev  0x000016d7      0x5ea D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .debug_abbrev  0x00001cc1      0x604 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_abbrev  0x000022c5      0x604 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.debug_line     0x00000000     0x3e3c
+ *(.debug_line)
+ .debug_line    0x00000000      0x97e Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_line    0x0000097e     0x1281 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_line    0x00001bff       0x97 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .debug_line    0x00001c96      0x84e D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_line    0x000024e4      0x7a6 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .debug_line    0x00002c8a      0x8d9 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_line    0x00003563      0x8d9 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.debug_frame    0x00000000      0xccc
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x110 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_frame   0x00000110      0xa00 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_frame   0x00000b10       0xf0 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .debug_frame   0x00000c00       0x34 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_frame   0x00000c34       0x30 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .debug_frame   0x00000c64       0x34 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_frame   0x00000c98       0x34 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.debug_str      0x00000000     0xabaa
+ *(.debug_str)
+ .debug_str     0x00000000     0x3725 Obj/GNU_ARM_DEBUG_TETRA/main.o
+                               0x39bc (size before relaxing)
+ .debug_str     0x00003725     0x6cbb D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+                               0xa4b6 (size before relaxing)
+ .debug_str     0x0000a3e0      0x1e6 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+                                0x2a4 (size before relaxing)
+ .debug_str     0x0000a5c6       0x40 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+                               0x3679 (size before relaxing)
+ .debug_str     0x0000a606       0x19 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+                               0x362f (size before relaxing)
+ .debug_str     0x0000a61f      0x55e D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+                               0x3be7 (size before relaxing)
+ .debug_str     0x0000ab7d       0x2d D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+                               0x3bf2 (size before relaxing)
+
+.debug_loc      0x00000000     0x154a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x1c2 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_loc     0x000001c2     0x111a D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_loc     0x000012dc      0x188 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImplCustom.o)
+ .debug_loc     0x00001464       0x3a D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_loc     0x0000149e       0x38 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(test.o)
+ .debug_loc     0x000014d6       0x3a D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_loc     0x00001510       0x3a D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x370
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x60 Obj/GNU_ARM_DEBUG_TETRA/main.o
+ .debug_ranges  0x00000060      0x2c8 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(DateAndtimeImpl.o)
+ .debug_ranges  0x00000328       0x18 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(getDate.o)
+ .debug_ranges  0x00000340       0x18 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setDate.o)
+ .debug_ranges  0x00000358       0x18 D:/Users/abmkhan/Ingenico_Workspace/DateAndTimeImpl2/Bin/GNU_ARM_DEBUG_TETRA/libDateAndtimeImpl.a(setTime.o)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(Obj/GNU_ARM_DEBUG_TETRA/DateAndTime.axf elf32-littlearm)

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?teliumProject version="3.0"?><?ingedev version="8.6.0.10"?><projectDescription activeConfig="GNU_ARM_DEBUG_TETRA" enableUsingCpp="true" projectType="LIB">
+<virtualFolders>
+<virtualFolder name="Other Files" sources="false"/>
+<virtualFolder name="Source Files" sources="true">
+<file generated="false" name="Src/Generated/DateAndtimeImpl.cpp" parentProject=""/>
+<file generated="false" name="Src/DateAndtimeImplCustom.cpp" parentProject=""/>
+</virtualFolder>
+<virtualFolder name="TimeAndDate" sources="true">
+<file generated="false" name="Src/TimeAndDate/setDate.cpp_old" parentProject=""/>
+<file generated="false" name="Src/TimeAndDate/getDate.cpp_old" parentProject=""/>
+<file generated="false" name="Src/TimeAndDate/getDate.cpp" parentProject=""/>
+<file generated="false" name="Src/TimeAndDate/test.cpp" parentProject=""/>
+<file generated="false" name="Src/TimeAndDate/setDate.cpp" parentProject=""/>
+<file generated="false" name="Src/TimeAndDate/setTime.cpp" parentProject=""/>
+</virtualFolder>
+</virtualFolders>
+<exportedHeaders>
+<exportedHeader name="ExpInc"/>
+<exportedHeader name="ExpInc/Generated"/>
+</exportedHeaders>
+<configs>
+<config archiverCustomOpts="" asmCpuMode="thumb" binaryName="libDateAndtimeImpl" compiler="gnuArm47v7a" cpuMode="thumb" crc="false" descr="date and time implementation" enableCPPExceptions="true" gcov="false" gnuOptim="-O0" gprof="false" hardware="Telium Tetra" name="GNU_ARM_DEBUG_TETRA" sign="false" zip="false">
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="ExpInc"/>
+<userInc value="ExpInc/Generated"/>
+<userInc value="${workspace_loc:/DateAndTime/ExpInc/Generated}"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.10.1.01"/>
+</teliumSdkPackages>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+<dataFiles/>
+<teliumPackageInfo/>
+<teliumCompatibilities/>
+<prebuild/>
+<userAsmIncs/>
+<userSystemLibraries/>
+<userSystemLibrariesOptions/>
+<userAsmDefines/>
+<externalSchemes/>
+<postbuild/>
+</config>
+<config archiverCustomOpts="" asmCpuMode="thumb" binaryName="libDateAndtimeImpl" compiler="gnuArm47v7a" cpuMode="thumb" descr="date and time implementation" enableCPPExceptions="true" gcov="false" gnuOptim="-Os" gprof="false" hardware="Telium Tetra" name="GNU_ARM_RELEASE_TETRA">
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="ExpInc"/>
+<userInc value="ExpInc/Generated"/>
+<userInc value="${workspace_loc:/DateAndTime/ExpInc/Generated}"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.10.1.01"/>
+</teliumSdkPackages>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+</config>
+</configs>
+<TeliumServiceChecksum filename="TimeAndDate.proto" md5sum="83C2FE2FB4B8256BC48BBA0A8D42A705" templateVersion="5.0"/>
+</projectDescription>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?teliumProject version="3.0"?><?ingedev version="8.6.0.10"?><projectDescription activeConfig="GNU_ARM_DEBUG_TETRA" enableUsingCpp="true" projectType="DLL">
+<virtualFolders>
+<virtualFolder name="Other Files" sources="false"/>
+<virtualFolder name="Source Files" sources="true">
+<file generated="false" name="Src/Generated/TimeAndDate.pb.cc" parentProject=""/>
+<file generated="false" name="Src/Generated/DateAndTimeProxy.cpp" parentProject=""/>
+</virtualFolder>
+<archiveFilesVirtualFolder name="Archive Files">
+<archive dirParentProject="" directoryToArchive="Resources" name="Bin\Resources.tar"/>
+</archiveFilesVirtualFolder>
+<virtualFolder name="Proto" sources="false">
+<file generated="false" name="proto/TimeAndDate.proto" parentProject=""/>
+</virtualFolder>
+</virtualFolders>
+<exportedHeaders>
+<exportedHeader name="ExpInc"/>
+<exportedHeader name="ExpInc/Generated"/>
+</exportedHeaders>
+<configs>
+<config applicationType="0x150" asmCpuMode="thumb" binaryName="libDateTime" compiler="gnuArm47v7a" cpuMode="thumb" crc="false" dataBinaryFileBaseName="DATA0150250" defaultTeliumCompatibility="Telium Tetra" descr="DateTime Service" enableCPPExceptions="true" gcov="false" gnuOptim="-O0" gprof="false" hardware="Telium Tetra" name="GNU_ARM_DEBUG_TETRA" projectFamily="TimeAndDate" sign="false" signatureCertificate="PAYMENT" stripEnable="true" stripOpt=" --remove-section=.comment " useDataFileNamingConvention="true" zip="false">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium Tetra"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="ExpInc"/>
+<userInc value="ExpInc/Generated"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.10.1.01"/>
+</teliumSdkPackages>
+<teliumPackageInfo countryCode="250" family="TimeAndDate" identifier="336" maintenancePatch="00" majorVersion="01" minorRelease="01" range="00"/>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_FULL_BINARY_NAME=&quot;${appli_telium_tetra_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM_TETRA_BINARY_NAME=&quot;${appli_data_file_telium_tetra_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_NAME=&quot;${appli_telium_tetra_package_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_TYPE=&quot;${appli_telium_tetra_package_type}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_RANGE=&quot;${appli_telium_tetra_package_range}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_COUNTRY_CODE=&quot;${appli_telium_tetra_package_country_code}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_IDENTIFIER=&quot;${appli_telium_tetra_package_identifier}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_VERSION=&quot;${appli_telium_tetra_package_version}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_COMPONENT_NAME=&quot;${appli_telium_tetra_component_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_FAMILY=&quot;${appli_telium_tetra_package_family}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_ROOTNAME=&quot;${appli_telium_tetra_package_rootname}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+<userDefine value="_ING_DEFAULT_SERVICE_NAME=&quot;local.service.TimeAndDate&quot;"/>
+</userDefines>
+<dataFiles>
+<dataFile alias="Resources" isDefault="true" name="Bin/Resources.tar" parentProject="">
+<targetTerminals/>
+</dataFile>
+</dataFiles>
+<prebuild command="" description=""/>
+<userAsmIncs/>
+<userSystemLibraries/>
+<userSystemLibrariesOptions/>
+<userRpaths/>
+<userAsmDefines/>
+<postbuild command="" description=""/>
+<externalSchemes/>
+</config>
+<config applicationType="0x150" asmCpuMode="thumb" binaryName="libDateTime" compiler="gnuArm47v7a" cpuMode="thumb" crc="true" dataBinaryFileBaseName="DATA0150250" defaultTeliumCompatibility="Telium Tetra" descr="DateTime Service" enableCPPExceptions="true" gcov="false" gnuOptim="-Os" gprof="false" hardware="Telium Tetra" name="GNU_ARM_RELEASE_TETRA" projectFamily="TimeAndDate" signatureCertificate="PAYMENT" stripEnable="true" stripOpt=" --remove-section=.comment " useDataFileNamingConvention="true" zip="true">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium Tetra"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="ExpInc"/>
+<userInc value="ExpInc/Generated"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.12.0.09"/>
+</teliumSdkPackages>
+<teliumPackageInfo countryCode="250" family="TimeAndDate" identifier="336" maintenancePatch="00" majorVersion="01" minorRelease="01" range="00"/>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_FULL_BINARY_NAME=&quot;${appli_telium_tetra_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM_TETRA_BINARY_NAME=&quot;${appli_data_file_telium_tetra_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_NAME=&quot;${appli_telium_tetra_package_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_TYPE=&quot;${appli_telium_tetra_package_type}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_RANGE=&quot;${appli_telium_tetra_package_range}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_COUNTRY_CODE=&quot;${appli_telium_tetra_package_country_code}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_IDENTIFIER=&quot;${appli_telium_tetra_package_identifier}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_VERSION=&quot;${appli_telium_tetra_package_version}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_COMPONENT_NAME=&quot;${appli_telium_tetra_component_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_FAMILY=&quot;${appli_telium_tetra_package_family}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_ROOTNAME=&quot;${appli_telium_tetra_package_rootname}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+<userDefine value="_ING_DEFAULT_SERVICE_NAME=&quot;local.service.TimeAndDate&quot;"/>
+</userDefines>
+<dataFiles>
+<dataFile alias="Resources" isDefault="true" name="Bin/Resources.tar" parentProject="">
+<targetTerminals/>
+</dataFile>
+</dataFiles>
+</config>
+</configs>
+<TeliumServiceChecksum filename="TimeAndDate.proto" md5sum="83C2FE2FB4B8256BC48BBA0A8D42A705" templateVersion="5.0"/>
+</projectDescription>

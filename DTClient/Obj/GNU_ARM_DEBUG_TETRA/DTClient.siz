@@ -1,0 +1,39 @@
+Obj/GNU_ARM_DEBUG_TETRA/DTClient.axf  :
+section            size    addr
+.interp              19   33076
+.note.ABI-tag        32   33096
+.hash               648   33128
+.dynsym            1488   33776
+.dynstr            3158   35264
+.gnu.version        186   38422
+.gnu.version_r      192   38608
+.rel.dyn             48   38800
+.rel.plt            576   38848
+.init                12   39424
+.plt                896   39436
+.text              5588   40332
+.fini                 8   45920
+.rodata             616   45928
+.ARM.extab          708   46544
+.ARM.exidx           88   47252
+.eh_frame             4   47340
+.init_array          16   80112
+.fini_array          12   80128
+.jcr                  4   80140
+.dynamic            312   80144
+.got                312   80456
+.data                 8   80768
+.bss                204   80776
+.comment             55       0
+.ARM.attributes      69       0
+.debug_aranges      136       0
+.debug_info       20781       0
+.debug_abbrev      1844       0
+.debug_line        3872       0
+.debug_frame        568       0
+.debug_str        18084       0
+.debug_loc          956       0
+.debug_ranges       216       0
+Total             61716
+
+

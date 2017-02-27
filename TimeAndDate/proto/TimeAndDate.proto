@@ -1,0 +1,68 @@
+package ingenico.dateAndTime;
+
+// Method request.
+message GetDateRequest
+{
+
+}
+
+// Method response.
+message GetDateResponse
+{
+	// Method result.
+	required string resultofgetdate = 1;
+}
+
+
+// Method response.
+message SetDateResponse
+{
+		required string datechanged = 1;
+
+}
+
+// Method request.
+message SetDateRequest
+{
+	// Input parameter (message to translate).
+	required string datestring = 1;
+}
+
+// Method response.
+message SetTimeResponse
+{
+		required string timechanged = 1;
+
+}
+
+// Method request.
+message SetTimeRequest
+{
+	// Input parameter (message to translate).
+	required string timestring = 1;
+}
+// Method response.
+message TestResponse
+{
+}
+
+// Method request.
+message TestRequest
+{
+}
+
+// Service definition.
+service TimeAndDate
+{
+	// Service method (@ref ingenico::service::Permissions::PAYMENT, @ref ingenico::service::Permissions::VERTICAL)
+	rpc setDate (SetDateRequest) returns (SetDateResponse);
+
+	// Service method (@ref ingenico::service::Permissions::PAYMENT, @ref ingenico::service::Permissions::VERTICAL)
+	rpc getDate (GetDateRequest) returns (GetDateResponse);
+
+		// Service method (@ref ingenico::service::Permissions::PAYMENT, @ref ingenico::service::Permissions::VERTICAL)
+	rpc test (TestRequest) returns (TestResponse);
+
+	// Service method (@ref ingenico::service::Permissions::PAYMENT, @ref ingenico::service::Permissions::VERTICAL)
+	rpc setTime (SetTimeRequest) returns (SetTimeResponse);
+}

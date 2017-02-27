@@ -1,0 +1,768 @@
+Archive member included because of file (symbol)
+
+d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+                              D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o (__libc_csu_init)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .group         0x00000000       0x10 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .note.GNU-stack
+                0x00000000        0x0 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/Main.o
+START GROUP
+LOAD D:/Users/abmkhan/Ingenico_Workspace/TimeAndDate/Bin/GNU_ARM_DEBUG_TETRA/libDateTime.so
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBGRAPHICLIB.LIB
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBBATTERY.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBBLIGHT.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBBUZZER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBCAPTURE.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBPPADTEXT.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBGPS.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBDESKTOP.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libethernet.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBEXPLORER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libgprs.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libspmci.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libwifi.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBGRAPHICS.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBACCELERO.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBHEADER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBINACTIVI.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/liblinklayer.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libtmscall.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libtmsdownload.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libmodem.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBMONITOR.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBOS.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libpackip.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libprinter.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBPROTOBUF.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSCRSAVER.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSERVICE.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libSecurity.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSETTING.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libsoftmgt.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSVCDIRPX.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBSVCDIRSK.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libTrEngine.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBVIRT_KB.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LIBOSLAYER.LIB
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libtlvtree.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/SQLITELIB.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/LibBridge.T3L
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/libbluetooth.lib
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform/DAL_Lib.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libchip.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libcless.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libgtl.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libled.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libPpad.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libswipe.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/Platform\libtransac.a
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/lib/OS/libtelinux.so
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc.so
+START GROUP
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/libc.so.6
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/ld-linux.so.3
+END GROUP
+START GROUP
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/libc.so.6
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a
+LOAD d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/lib/ld-linux.so.3
+END GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib/libgcc_s.so
+START GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib\libgcc_s.so.1
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+END GROUP
+START GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib\libgcc_s.so.1
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+END GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/lib/libstdc++.so
+END GROUP
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+LOAD D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+LOAD C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168      0x288
+ *(.hash)
+ .hash          0x00008168      0x288 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000083f0      0x5d0
+ *(.dynsym)
+ .dynsym        0x000083f0      0x5d0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.dynstr         0x000089c0      0xc56
+ *(.dynstr)
+ .dynstr        0x000089c0      0xc56 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version    0x00009616       0xba
+ *(.gnu.version)
+ .gnu.version   0x00009616       0xba D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version_d  0x000096d0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version_r  0x000096d0       0xc0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x000096d0       0xc0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.rel.dyn        0x00009790       0x30
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00009790       0x18 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x000097a8       0x18 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x000097c0                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+                0x000097c0                PROVIDE (__rel_iplt_end, .)
+                0x000097c0                PROVIDE (__rela_iplt_start, .)
+                0x000097c0                PROVIDE (__rela_iplt_end, .)
+
+.rela.dyn       0x000097c0        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                0x000097c0                PROVIDE (__rel_iplt_start, .)
+                0x000097c0                PROVIDE (__rel_iplt_end, .)
+                0x000097c0                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                0x000097c0                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x000097c0      0x240
+ *(.rel.plt)
+ .rel.plt       0x000097c0      0x240 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00009a00        0xc
+ *(.init)
+ .init          0x00009a00        0x8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00009a00                _init
+ .init          0x00009a08        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+
+.plt            0x00009a0c      0x380
+ *(.plt)
+ .plt           0x00009a0c      0x380 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00009a20                Odm_AppGetCurrentAppliIdentifier
+                0x00009a2c                ingenico::graphics::GraphicLib::GraphicLib(std::string const&, std::string const&)
+                0x00009a38                ingenico::service::Service::dispatch(unsigned long)
+                0x00009a44                getpid@@GLIBC_2.4
+                0x00009a50                std::string::find(char const*, unsigned int) const@@GLIBCXX_3.4
+                0x00009a5c                ingenico::graphics::GraphicLib::getSkinWidget(T_GL_TYPE)
+                0x00009a68                ingenico::desktopenv::Explorer::~Explorer()
+                0x00009a74                ingenico::dateAndTime::DateAndTimeProxy::setDate(std::string const&, std::string&)
+                0x00009a80                std::string::substr(unsigned int, unsigned int) const@@GLIBCXX_3.4
+                0x00009a8c                iniparser_getint
+                0x00009a98                std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&)@@GLIBCXX_3.4
+                0x00009aa4                Odm_ApplicationGetCurrent
+                0x00009ab0                ingenico::graphics::GraphicLib::openApplicationWindow()
+                0x00009abc                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&)@@GLIBCXX_3.4
+                0x00009ac8                Odm_AppGetAppliTypeFromAppId
+                0x00009ad4                strtoul@@GLIBC_2.4
+                0x00009ae0                ingenico::emulation::BridgeTplus::~BridgeTplus()
+                0x00009aec                Sap_trace_debug
+                0x00009af8                snprintf@@GLIBC_2.4
+                0x00009b04                ingenico::graphics::GraphicLib::~GraphicLib()
+                0x00009b10                abort@@GLIBC_2.4
+                0x00009b1c                pause@@GLIBC_2.4
+                0x00009b28                ingenico::desktopenv::SoftwareSelectedEvent::instantiate()
+                0x00009b34                ingenico::service::Link::decode(google::protobuf::Message&)
+                0x00009b44                kill@@GLIBC_2.4
+                0x00009b50                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string()@@GLIBCXX_3.4
+                0x00009b5c                COREDBG_StackOverFlowSet
+                0x00009b68                ingenico::dateAndTime::DateAndTimeProxy::~DateAndTimeProxy()
+                0x00009b74                iniparser_freedict
+                0x00009b80                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x00009b8c                ingenico::desktopenv::Explorer::addIcon(std::string const&, std::string const&, bool, unsigned long)
+                0x00009b98                std::ostream::operator<<(std::ostream& (*)(std::ostream&))@@GLIBCXX_3.4
+                0x00009ba4                std::allocator<char>::~allocator()@@GLIBCXX_3.4
+                0x00009bb0                ingenico::desktopenv::Explorer::addIcon(std::string const&, std::string const&, bool, unsigned long, std::string const&, unsigned long)
+                0x00009bbc                __cxa_end_cleanup@@CXXABI_1.3
+                0x00009bc8                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)@@GLIBCXX_3.4
+                0x00009bd4                ingenico::desktopenv::SoftwareSelectedEvent::entryurl() const
+                0x00009be0                ingenico::service::Interfacable::bind(unsigned long long, ingenico::os::Error (*)(ingenico::service::Link&), std::string const&)
+                0x00009bec                access@@GLIBC_2.4
+                0x00009bf8                ingenico::service::Manifest::instantiate()
+                0x00009c04                ingenico::graphics::GraphicLib::dialogMessage(std::string const&, std::string const&, T_GL_DIALOG_ICON, T_GL_BUTTONS, unsigned long)
+                0x00009c10                ingenico::graphics::Widget::setBorders(unsigned long, unsigned long, unsigned long, unsigned long, T_GL_UNIT, unsigned long)
+                0x00009c1c                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <char, std::char_traits<char>, std::allocator<char> >(std::basic_ostream<char, std::char_traits<char> >&, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@@GLIBCXX_3.4
+                0x00009c28                Stapp_LegacyInstall
+                0x00009c34                pthread_cancel@@GLIBC_2.4
+                0x00009c40                ingenico::dateAndTime::DateAndTimeProxy::DateAndTimeProxy()
+                0x00009c4c                __aeabi_atexit@@GLIBC_2.4
+                0x00009c58                ingenico::desktopenv::Explorer::Explorer()
+                0x00009c64                std::string::c_str() const@@GLIBCXX_3.4
+                0x00009c70                Sys_GetMode
+                0x00009c80                Stapp_LegacyInstall_end
+                0x00009c8c                ingenico::service::Service::Service(ingenico::os::Poller*)
+                0x00009c98                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@@GLIBCXX_3.4
+                0x00009ca4                std::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::basic_ostringstream(std::_Ios_Openmode)@@GLIBCXX_3.4
+                0x00009cb0                ingenico::dateAndTime::DateAndTimeProxy::test()
+                0x00009cbc                __gxx_personality_v0@@CXXABI_1.3
+                0x00009ccc                Stapp_LegacyUninstall
+                0x00009cd8                ingenico::service::Service::~Service()
+                0x00009ce4                ingenico::service::Service::attachProxy(ingenico::service::Proxyable&, std::string const&, unsigned int)
+                0x00009cf0                std::ostream::operator<<(int)@@GLIBCXX_3.4
+                0x00009cfc                std::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::str() const@@GLIBCXX_3.4
+                0x00009d08                ingenico::graphics::GraphicLib::closeApplicationWindow()
+                0x00009d14                ingenico::graphics::RefWidget::~RefWidget()
+                0x00009d20                std::allocator<char>::allocator()@@GLIBCXX_3.4
+                0x00009d2c                std::string::append(char const*)@@GLIBCXX_3.4
+                0x00009d38                getenv@@GLIBC_2.4
+                0x00009d44                __libc_start_main@@GLIBC_2.4
+                0x00009d50                iniparser_load
+                0x00009d68                ingenico::dateAndTime::DateAndTimeProxy::getDate(std::string&)
+                0x00009d74                std::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::~basic_ostringstream()@@GLIBCXX_3.4
+                0x00009d80                ingenico::emulation::BridgeTplus::BridgeTplus()
+
+.iplt
+ *(.iplt)
+
+.text           0x00009d8c     0x15d4
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x00009d8c      0x120 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                0x00009d8c                telinux_after_main_last
+                0x00009de8                telinux_gmon_dump_prepare
+ *(.text.startup .text.startup.*)
+ .text.startup  0x00009eac       0xd4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                0x00009ecc                telinux_before_main_first
+                0x00009f4c                telinux_before_main_last
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00009f80       0x24 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .text          0x00009fa4       0x3c D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x00009fa4                _start
+ .text          0x00009fe0       0xd8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .text          0x0000a0b8       0x60 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                0x0000a0b8                entry
+                0x0000a0e0                __stack_chk_fail
+ .text          0x0000a118        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ .text          0x0000a118      0xe7c Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000a118                onMenuClicked(ingenico::service::Link&)
+                0x0000a8d8                main
+ .text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEED2Ev
+                0x0000af94       0x50 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000af94                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::~auto_ptr()
+                0x0000af94                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000afe4       0x48 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000afe4                _ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEC2ESt12auto_ptr_refIS2_E
+                0x0000b02c       0x3c Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b02c                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::auto_ptr(std::auto_ptr_ref<ingenico::desktopenv::SoftwareSelectedEvent>)
+                0x0000b02c                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::auto_ptr(std::auto_ptr_ref<ingenico::desktopenv::SoftwareSelectedEvent>)
+ .text._ZNKSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEdeEv
+                0x0000b068       0x38 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b068                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::operator*() const
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEED2Ev
+                0x0000b0a0       0x50 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b0a0                std::auto_ptr<ingenico::service::Manifest>::~auto_ptr()
+                0x0000b0a0                std::auto_ptr<ingenico::service::Manifest>::~auto_ptr()
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000b0f0       0x48 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b0f0                _ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEC2ESt12auto_ptr_refIS2_E
+                0x0000b138       0x3c Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b138                std::auto_ptr<ingenico::service::Manifest>::auto_ptr(std::auto_ptr_ref<ingenico::service::Manifest>)
+                0x0000b138                std::auto_ptr<ingenico::service::Manifest>::auto_ptr(std::auto_ptr_ref<ingenico::service::Manifest>)
+ .text._ZNKSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEptEv
+                0x0000b174       0x38 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b174                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::operator->() const
+ .text._ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_PKS3_
+                0x0000b1ac       0x54 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b1ac                std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)
+ .text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEE7releaseEv
+                0x0000b200       0x40 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b200                std::auto_ptr<ingenico::desktopenv::SoftwareSelectedEvent>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico10desktopenv21SoftwareSelectedEventEEC2EPS2_
+                0x0000b240       0x3c Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b240                std::auto_ptr_ref<ingenico::desktopenv::SoftwareSelectedEvent>::auto_ptr_ref(ingenico::desktopenv::SoftwareSelectedEvent*)
+                0x0000b240                std::auto_ptr_ref<ingenico::desktopenv::SoftwareSelectedEvent>::auto_ptr_ref(ingenico::desktopenv::SoftwareSelectedEvent*)
+ .text._ZNSt8auto_ptrIN8ingenico7service8ManifestEE7releaseEv
+                0x0000b27c       0x40 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b27c                std::auto_ptr<ingenico::service::Manifest>::release()
+ .text._ZNSt12auto_ptr_refIN8ingenico7service8ManifestEEC2EPS2_
+                0x0000b2bc       0x3c Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b2bc                std::auto_ptr_ref<ingenico::service::Manifest>::auto_ptr_ref(ingenico::service::Manifest*)
+                0x0000b2bc                std::auto_ptr_ref<ingenico::service::Manifest>::auto_ptr_ref(ingenico::service::Manifest*)
+ .text          0x0000b2f8       0x68 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+                0x0000b2f8                __libc_csu_init
+                0x0000b35c                __libc_csu_fini
+ .text          0x0000b360        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .text          0x0000b360        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .text          0x0000b360        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x0000b360        0x8
+ *(.fini)
+ .fini          0x0000b360        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000b360                _fini
+ .fini          0x0000b364        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+                0x0000b368                PROVIDE (__etext, .)
+                0x0000b368                PROVIDE (_etext, .)
+                0x0000b368                PROVIDE (etext, .)
+
+.rodata         0x0000b368      0x268
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000b368        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x0000b368                _IO_stdin_used
+ .rodata        0x0000b36c       0x1c C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .rodata.str1.4
+                0x0000b388       0x46 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+                                 0x48 (size before relaxing)
+ *fill*         0x0000b3ce        0x2 00
+ .rodata        0x0000b3d0      0x160 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .rodata        0x0000b530       0x18 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ .rodata.str1.4
+                0x0000b548       0x88 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0000b5d0      0x2c4
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000b5d0        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.extab     0x0000b5d0      0x290 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEED2Ev
+                0x0000b860        0xc Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000b86c        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEC2ESt12auto_ptr_refIS2_E
+                0x0000b86c        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEdeEv
+                0x0000b86c        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEED2Ev
+                0x0000b86c        0xc Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000b878        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEC2ESt12auto_ptr_refIS2_E
+                0x0000b878        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNKSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEptEv
+                0x0000b878        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_PKS3_
+                0x0000b878       0x1c Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEE7releaseEv
+                0x0000b894        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico10desktopenv21SoftwareSelectedEventEEC2EPS2_
+                0x0000b894        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEE7releaseEv
+                0x0000b894        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.extab.text._ZNSt12auto_ptr_refIN8ingenico7service8ManifestEEC2EPS2_
+                0x0000b894        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x0000b894                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0000b894       0x58
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000b894        0x8 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.exidx     0x0000b89c       0x20 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEED2Ev
+                0x0000b8bc        0x8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000b8c4        0x8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEC2ESt12auto_ptr_refIS2_E
+                0x0000b8cc        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEdeEv
+                0x0000b8cc        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEED2Ev
+                0x0000b8cc        0x8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEcvSt12auto_ptr_refIT_EIS2_EEv
+                0x0000b8d4        0x8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEEC2ESt12auto_ptr_refIS2_E
+                0x0000b8dc        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNKSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEEptEv
+                0x0000b8dc        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_PKS3_
+                0x0000b8dc        0x8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico10desktopenv21SoftwareSelectedEventEE7releaseEv
+                0x0000b8e4        0x8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico10desktopenv21SoftwareSelectedEventEEC2EPS2_
+                0x0000b8ec        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt8auto_ptrIN8ingenico7service8ManifestEE7releaseEv
+                0x0000b8ec        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZNSt12auto_ptr_refIN8ingenico7service8ManifestEEC2EPS2_
+                0x0000b8ec        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                                  0x8 (size before relaxing)
+                0x0000b8ec                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000b8ec        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000b8ec        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0000b8f0                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x000138f0                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x000138f0        0x0
+                0x000138f0                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x000138f0                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000138f0       0x10
+                0x000138f0                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00101
+                0x000138f0        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ *(.init_array)
+ .init_array    0x000138f4        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .init_array    0x000138f8        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .init_array    0x000138fc        0x4 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x00013900                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00013900        0xc
+                0x00013900                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ .fini_array.00101
+                0x00013900        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ .fini_array.00201
+                0x00013904        0x4 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(.fini_array)
+ .fini_array    0x00013908        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x0001390c                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0001390c        0x4
+ *(.jcr)
+ .jcr           0x0001390c        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .jcr           0x0001390c        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00013910      0x138
+ *(.dynamic)
+ .dynamic       0x00013910      0x138 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00013910                _DYNAMIC
+                0x00013a48                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00013a48      0x138
+ *(.got.plt)
+ .got.plt       0x00013a48      0x12c D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00013a48                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x00013b74        0xc D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ *(.igot)
+
+.data           0x00013b80        0x8
+                0x00013b80                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00013b80        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .data          0x00013b80        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x00013b80                __data_start
+                0x00013b80                data_start
+ .data          0x00013b84        0x4 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x00013b84                __dso_handle
+ .data          0x00013b88        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .data          0x00013b88        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ .data          0x00013b88        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .data          0x00013b88        0x0 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x00013b88        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .data          0x00013b88        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .data          0x00013b88        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.tm_clone_table
+                0x00013b88        0x0
+ .tm_clone_table
+                0x00013b88        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .tm_clone_table
+                0x00013b88        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.data1
+ *(.data1)
+                0x00013b88                _edata = .
+                0x00013b88                PROVIDE (edata, .)
+                0x00013b88                __bss_start = .
+                0x00013b88                __bss_start__ = .
+
+.bss            0x00013b88       0xcc
+ *(.dynbss)
+ .dynbss        0x00013b88       0x14 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00013b88                __stack_chk_guard@@GLIBC_2.4
+                0x00013b90                ingenico::desktopenv::SoftwareSelectedEvent::messageType
+                0x00013b98                ingenico::service::Permissions::ALL_TELIUM_PLATFORM
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00013b9c        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .bss           0x00013b9c        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .bss           0x00013b9c        0x1 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .bss           0x00013b9d        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .bss           0x00013b9d        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ *fill*         0x00013b9d        0x3 00
+ .bss           0x00013ba0       0xb4 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .bss           0x00013c54        0x0 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x00013c54        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .bss           0x00013c54        0x0 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .bss           0x00013c54        0x0 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(COMMON)
+                0x00013c54                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00013c54                _bss_end__ = .
+                0x00013c54                __bss_end__ = .
+                0x00013c54                . = ALIGN (0x4)
+                0x00013c54                . = ALIGN (0x4)
+                0x00013c54                __end__ = .
+                0x00013c54                _end = .
+                0x00013c54                PROVIDE (end, .)
+                0x00013c54                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x37
+ *(.comment)
+ .comment       0x00000000       0x37 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                                 0x38 (size before relaxing)
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .comment       0x00000000       0x38 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .comment       0x00000000       0x38 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .comment       0x00000000       0x38 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .comment       0x00000000       0x38 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.ARM.attributes
+                0x00000000       0x45
+ .ARM.attributes
+                0x00000000       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .ARM.attributes
+                0x00000043       0x3d D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.attributes
+                0x00000080       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .ARM.attributes
+                0x000000c3       0x39 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyentrypoint.o
+ .ARM.attributes
+                0x000000fc       0x39 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ .ARM.attributes
+                0x00000135       0x39 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.attributes
+                0x0000016e       0x43 d:\ingenico\ingedev_8.6.0.10\toolchains\gnuarm47v7a\bin\../arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x000001b1       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .ARM.attributes
+                0x000001f4       0x43 D:/Ingenico/IngeDev_8.6.0.10/toolchains/gnuArm47v7a/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .ARM.attributes
+                0x00000237       0x39 C:/Program Files/TeliumSDK/SDK11.10.1.01/SDKT3/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x88
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x88 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x512d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x512d Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.debug_abbrev   0x00000000      0x734
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x734 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.debug_line     0x00000000      0xf20
+ *(.debug_line)
+ .debug_line    0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main_old.o
+ .debug_line    0x00000000      0xf20 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.debug_frame    0x00000000      0x238
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x238 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.debug_str      0x00000000     0x46a4
+ *(.debug_str)
+ .debug_str     0x00000000     0x46a4 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                               0x4955 (size before relaxing)
+
+.debug_loc      0x00000000      0x3bc
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x3bc Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0xd8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xd8 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(Obj/GNU_ARM_DEBUG_TETRA/DTClient.axf elf32-littlearm)

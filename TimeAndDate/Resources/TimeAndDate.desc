@@ -1,0 +1,23 @@
+
+‰
+TimeAndDate.protoingenico.dateAndTime"
+GetDateRequest"*
+GetDateResponse
+resultofgetdate (	"&
+SetDateResponse
+datechanged (	"$
+SetDateRequest
+
+datestring (	"&
+SetTimeResponse
+timechanged (	"$
+SetTimeRequest
+
+timestring (	"
+TestResponse"
+TestRequest2ä
+TimeAndDateV
+setDate$.ingenico.dateAndTime.SetDateRequest%.ingenico.dateAndTime.SetDateResponseV
+getDate$.ingenico.dateAndTime.GetDateRequest%.ingenico.dateAndTime.GetDateResponseM
+test!.ingenico.dateAndTime.TestRequest".ingenico.dateAndTime.TestResponseV
+setTime$.ingenico.dateAndTime.SetTimeRequest%.ingenico.dateAndTime.SetTimeResponse

@@ -1,0 +1,40 @@
+Obj/GNU_ARM_DEBUG_TETRA/TMSServiceI.axf  :
+section             size     addr
+.interp               19    33076
+.note.ABI-tag         32    33096
+.hash               1232    33128
+.dynsym             2800    34360
+.dynstr             7723    37160
+.gnu.version         350    44884
+.gnu.version_r       192    45236
+.rel.dyn             112    45428
+.rel.plt            1192    45540
+.init                 12    46732
+.plt                1820    46744
+.text              20820    48564
+.fini                  8    69384
+.rodata             1400    69392
+.ARM.extab          2084    70792
+.ARM.exidx           576    72876
+.eh_frame              4    73452
+.init_array           16   106496
+.fini_array           12   106512
+.jcr                   4   106524
+.data.rel.ro         344   106528
+.dynamic             320   106872
+.got                 660   107192
+.data                688   107856
+.bss                 236   108544
+.comment              55        0
+.ARM.attributes       67        0
+.debug_aranges      1136        0
+.debug_info       128460        0
+.debug_abbrev      11380        0
+.debug_line        18767        0
+.debug_frame        4876        0
+.debug_str         47097        0
+.debug_loc          8260        0
+.debug_ranges       1368        0
+Total             264122
+
+
